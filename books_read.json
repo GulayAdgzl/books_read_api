@@ -1,70 +1,242 @@
-{
-    "books":[
-        {
-            "isbn":"9781593279509",
-            "title":"Harry Potter ve Felsefe Taşı",
-            "author":"J.K. Rowling",
-            "published":"2018-12-04T00:00:00.000Z",
-            "publisher":"No Starch Press",
-            "pages":472,
-            "description":"\"Elleri titreyerek zarfı ters çeviren Harry'nin gözüne, üzerlerinde şu armalar olan mor bir mühür mumu çarptı; Bir aslan, bir kartal, bir porsuk ve büyük bir 'H' harfini çevreleyen bir yılan.\" Harfleri dört numaralı kapı paspası Privet Drive'da görmeden önce, Harry Potter Hogwarts'ı hiç duymamıştı. Mor bir mühürle sarımsı parşömen üzerine yeşil mürekkep ile yazılmış olan bu mektup, Harry'nin korkunç teyzesi ve amcası tarafından hızla ele geçirildi. Ardından, Harry'nin on birinci doğum gününde, Rubeus Hagrid adında gözleri dışarı çıkık dev bir adam şaşırtıcı haberler verdi: Harry Potter bir büyücüydü ve Hogwarts Cadılık ve Büyücülük Okulu'na kabul edilmişti. Böylece inanılmaz bir macera başlamak üzereydi!",
-            "image":"http://books.google.com/books/content?id=6Q1MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781491943533",
-            "title":"Harry Potter ve zümrüdüanka yoldaşlığı",
-            "author": "J. K. Rowling",
-            "pages":334,
-            "description":"When the government of the magic world and authorities at Hogwarts School of Witchcraft and Wizardry refuse to believe in the growing threat of a freshly revived Lord Voldemort, fifteen-year-old Harry Potter finds support from his loyal friends in facing the evil wizard and other new terrors.",
-            "image":"http://books.google.com/books/content?id=jzqVzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781593277574",
-            "title":"Harry Potter ve Lanetli Çocuk Birinci ve İkinci Bölüm (Sahne Metni Özel Baskısı)",
-            "author":"J.K. Rowling",
-            "pages":352,
-            "description": "Harry Potter'ın, Ron Weasley'nin ve Hermione Granger'ın büyücülük dünyasını kurtarmasından bu yana on dokuz yıl geçti ve şimdi Hogwarts Cadılık ve Büyücülük Okulu'na yakın zamanda gelen cesur yeni bir neslin de katıldığı olağanüstü bir macerayla geri dönüyorlar. Harry, ait olduğu yerde kalmayı reddeden bir geçmişle boğuşurken en küçük oğlu Albus, hiç istemediği bir aile mirasının ağırlığıyla mücadele ediyor. Geçmiş ile bugün çarpışırken baba ile oğul, gizemli güçlerle savaşarak zaman içinde geleceğin kaderini belirleyecek bir yarışa tutuşuyor. J.K. Rowling'in, John Tiffany'nin ve Jack Thorne'un orijinal bir hikâyesine dayanan Harry Potter ve Lanetli Çocuk, West End'in ödüllü yapımının tam ve kısaltılmamış oyun metnidir.",
-            "image":"http://books.google.com/books/content?id=6vVnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781449365035",
-            "title":"Harry Potter ve Azkaban Tutsağı",
-            "author": "J.K. Rowling",
-            "pages":460,
-            "description": "\"'Zor durumdaki cadı veya büyücüler için acil durum taşıma aracı olan Hızır Otobüse hoş geldiniz. Sihirbaz asanızı uzatın, atlayın ve sizi istediğiniz yere götürsün.'\" Hızır Otobüs karanlığı yırtarak yol aldığında, Harry Potter için Hogwarts'ta son derece sıradan bir yıl başlıyordu. Lord Voldemort'un takipçisi ve seri katil Sirius Black kaçıyor - ve Harry'nin peşinden geliyor. İlk Kehanet dersinde, Harry'nin öğretmeni Profesör Trelawney Harry'nin çay yapraklarında bir ölüm alameti görüyor...Ancak tüm bunların belki de en korkuncu, öpücükleriyle ruhları alan ve okulun çevresinde gezinen Ruh Emicilerdi..",
-            "image":"http://books.google.com/books/content?id=Mw5MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781449331818",
-            "title":"Harry Potter ve Sirlar Odasi",
-            "author":"Addy Osmani",
-            "pages":254,
-            "description":"\"'Bu bir komplo, Harry Potter. Bu komplo, Hogwarts Cadılık ve Büyücülük Okulu'nda bu yıl çok korkunç şeyler olmasına sebep olacak.'\" Harry Potter o yaz hayatının en kötü doğum gününü geçirmişti. Dobby adlı ev cininin karamsar uyarıları sayesinde Dursley ailesinin evinden arkadaşı Ron Weasley'in büyülü uçan arabasıyla kaçtı! Hogwarts Cadılık ve Büyücülük Okulundaki ikinci yılında Harry, boş koridorlarda garip söylentilerin yayıldığını duydu - ve saldırı başladı. Öğrenciler taşlaşmaya başladılar... Dobby'nin karamsar öngörüleri gerçekleşiyor gibi görünüyordu.",
-            "image":"http://books.google.com/books/content?id=Dg5MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9798602477429",
-            "title":"Harry Potter ve ölüm yadigârları",
-            "author":"Joanne K. Rowling",
-            "pages":143,
-            "description":"Fantasy. Harry Potter er sammen med sine gode venner Ron og Hermione taget ud på en farlig færd. De skal finde den onde troldmand Voldemorts Horcruxer og ødelægge dem. Deres søgen bringer dem mange steder hen og ofte er de i livsfare. Men Voldemort og hans kumpaner er også på jagt efter de forsvundne Horcruxer",
-            "image": "http://books.google.com/books/content?id=fj6kMAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781484200766",
-            "title":"Harry Potter ve Melez Prens",
-            "author":"Jack Thorne",
-            "pages":458,
-            "description":"\"İşte oradaydı ve okulun önünde havada asılı duruyordu: Ölüm Yiyenler yeşil kafaları ve yılan dilleri ile içeri girdiklerinde iz bırakırlar... Ve tabi öldürdüklerinde...\" Dumbledore bir yaz akşamı Harry Potter'ı almak için Privet Drive'a geldiğinde, asayı tutan eli siyah ve buruşmuştu, ama nedenini söylemedi. Sırlar ve şüpheler sihir dünyasında yayılıyordu ve Hogwarts bile güvenli değildi. Harry Malfoy'un Karanlık İşareti taşıdığına inanıyordu: Aralarında bir Ölüm Yiyen vardı. Harry Voldemort'un karanlık sırlarını keşfederken güçlü bir sihre ve gerçek arkadaşlara ihtiyaç duyuyordu ve Dumbledore onu kaderiyle yüzleşmeye çağırıyordu...",
-            "image":"http://books.google.com/books/content?id=OA9MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        {
-            "isbn":"9781484242216",
-            "title":"Ozan Beedle’ın Hikâyeleri",
-            "author": "J.K. Rowling",
-            "pages":310,
-            "description":"\"Onun hikâyelerinde zafer kazanan kahramanlar en güçlü büyüye sahip olanlar değil, daha ziyade en kibar, sağduyulu ve hünerli olanlardır.\" Harry Potter hikâyelerini seven herkesin bildiği gibi, Hogwarts Kütüphanesi'nin rafları bir sürü ilginç kitapla doludur. Belirli bazı Hogwarts öğrencilerinin, Ozan Beedle'ın Hikâyeleri dâhil olmak üzere bu kitapların özellikle üç tanesinden bahsetmiş olduğunu duymuş olabilirsiniz ve artık siz de bunları okuma listenize ekleyebilirsiniz. Uyuyan Güzel ve Sindirella Muggle çocukları için neyse, Beedle'ın hikâyeleri de genç cadılar ve büyücüler için yazılmış popüler bir masal koleksiyonudur. Yani sizi nelerin beklediğini merak ediyorsanız hoş şeylere hazırlanın! Büyücü ve Zıplayan Kazan'da bir babanın oğluna verdiği tuhaf hediyesinin yarattığı kaosu okuduğunuzda güleceksiniz. İyi Kader Çeşmesi sizi efsunlu bir bahçede üç cadı ve şanssız bir şövalyenin yanında bir maceraya çıkaracak. Sihirbazın Kıllı Kalbi'nde sevgiden korkan ve ondan ne pahasına olursa olsun kaçmak için büyüye yönelen genç bir büyücünün ibret verici hikâyesini okuyacaksınız. Babbitty Rabbity ve Kıkırdayan Kütüğü'nde sersem bir kral, kurnaz bir şarlatan ve belalı bir çamaşırcı kadının felakete yol açan karşılaşması gözlerinizin önüne serilecek. En sonunda ise Beedle hikâyelerinin en ikonik olanı yer alıyor. İçerdiği tevazu ve bilgelik mesajıyla, Üç Kardeşin Hikâyesi siz sevgili okuyucumuzu Ölüm Yadigârları ile tanıştıracak. Her hikâyeye kuşkusuz herkesin favori okul müdürü olan Albus Dumbledore'un bilgece ve gelişigüzel notları eşlik ediyor. Bize gelen bilgilere göre bu beş hikâye büyücü hanelerinde yüzyıllardır gözde eserler olmuştur. Şimdi bu Büyü Dünyası hikâyelerinin tadını çıkarma sırası sizde. Çağlar Boyu Quidditch hayranları diğer Hogwarts Kütüphanesi Kitaplarının da keyfini çıkarabilir: Fantastik Canavarlar Nelerdir, Nerede Bulunurlar? ve Çağlar Boyu Quidditch. Bu sesli kitap için Pottermore Limited tarafından elde edilecek hasılatın* en az %90'ı yayıncı tarafından The Lumos Foundation kurumuna tahsis edilecek ve sevgi dolu ailelerde ve topluluklarda gelişebilmeleri için, kendilerine yardımcı olabilecek kuruluşların bulunmadığı dünyadaki çocuklara yardım çalışmaları için kullanılacaktır. The Lumos Foundation İngiltere ve Galler'de 1112575 hayır kuruluşu numarası ve ABD'de (EIN 47-2301085) kayıtlı bir Hayır kuruluşudur. Hasılat, satış vergileri düşüldükten sonraki nakit fiyat veya nakit eş değer fiyatı anlamına gelir. Dünyada 8 milyonu aşkın çocuk yetimhanelerde ve başka kurumlarda yaşamaktadır. Şaşırtıcı olan asıl şey şu ki bu çocukların yaklaşık %80'i aslında yetim değil. Doğru desteğin sağlanması hâlinde, onlara bakabilecek birer aileleri var. Lumos J.K. Rowling tarafından çocuklara yönelik olarak kurulmuş uluslararası bir hayır kuruluşudur. Adını Harry Potter'ın ışık veren büyüsünden alan Lumos'un görevi 2050 yılı itibarıyla tüm çocukların onları seven ve koruyan ailelerde büyümesini sağlamaktır. *Hasılat, satış vergileri düşüldükten sonraki nakit fiyat veya nakit eş değer fiyatı anlamına gelir.",
-            "image":"http://books.google.com/books/content?id=uHPAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "url":"https://picsum.photos/id/1/5000/3333",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "url":"https://picsum.photos/id/2/5000/3333",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "url":"https://picsum.photos/id/3/5000/3333",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "url":"https://picsum.photos/id/4/5000/3333",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "url":"https://picsum.photos/id/5/5000/3333",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "company": {
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "bs": "revolutionize end-to-end systems"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "url":"https://picsum.photos/id/6/5000/3333",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "bs": "e-enable innovative applications"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "url":"https://picsum.photos/id/7/5000/3333",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "url":"https://picsum.photos/id/8/5000/3333",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "586.493.6943 x140",
+    "website": "jacynthe.com",
+    "company": {
+      "name": "Abernathy Group",
+      "catchPhrase": "Implemented secondary concept",
+      "bs": "e-enable extensible e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "url":"https://picsum.photos/id/9/5000/3333"
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "(775)976-6794 x41206",
+    "website": "conrad.com",
+    "company": {
+      "name": "Yost and Sons",
+      "catchPhrase": "Switchable contextually-based project",
+      "bs": "aggregate real-time technologies"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "url":"https://picsum.photos/id/10/5000/3333",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "024-648-3804",
+    "website": "ambrose.net",
+    "company": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Centralized empowering task-force",
+      "bs": "target end-to-end models"
+    }
+  }
+]
