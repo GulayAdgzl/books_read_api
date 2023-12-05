@@ -1,34 +1,30 @@
 [
   {
-    "id": "RqfFauPXJx0",
     "urls":
     {
-     "small": "https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
-    },
+     "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
+    }
   },
   {
-    "id": "mYizSrdJkkU",
-      "urls":
+    "urls":
     {
-     "small": "https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
-    },
+     "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
+    }
   
   },
   {
-    "id": "c_Fvm6BW4Wg",
-      "urls":
+   "urls":
     {
-     "small": "https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
-    },
+     "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
+    }
    
   },
   {
-    "id": "oubKxRyYYQA",
-       "urls":
+    "urls":
     {
-     "small": "https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
+     "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w1small.jpg",
     },
    
-  },
+  }
  
 ]
