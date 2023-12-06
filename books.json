@@ -66,77 +66,77 @@
     "id":"RqfFauPXJx9",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w10small.png",
-      "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w11.png"
+      "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w10.png"
     }
   },
    {
     "id":"RqfFauPXJ10",
+    "urls":{
+      "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w11small.png",
+      "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w11.png"
+    }
+  },
+   {
+    "id":"RqfFauPXJ11",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w12small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w12.png"
     }
   },
    {
-    "id":"RqfFauPXJ11",
+    "id":"RqfFauPXJ12",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w13small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w13.png"
     }
   },
    {
-    "id":"RqfFauPXJ12",
+    "id":"RqfFauPXJ13",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w14small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w14.png"
     }
   },
    {
-    "id":"RqfFauPXJ13",
+    "id":"RqfFauPXJ14",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w15small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w15.png"
     }
   },
    {
-    "id":"RqfFauPXJ14",
+    "id":"RqfFauPXJ15",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w16small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w16.png"
     }
   },
    {
-    "id":"RqfFauPXJ15",
+    "id":"RqfFauPXJ16",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w17small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w17.png"
     }
   },
    {
-    "id":"RqfFauPXJ16",
+    "id":"RqfFauPXJ17",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w18small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w18.png"
     }
   },
    {
-    "id":"RqfFauPXJ17",
+    "id":"RqfFauPXJ18",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w19small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w19.png"
     }
   },
    {
-    "id":"RqfFauPXJ18",
+    "id":"RqfFauPXJ19",
     "urls":{
       "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w20small.png",
       "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w20.png"
-    }
-  },
-   {
-    "id":"RqfFauPXJ19",
-    "urls":{
-      "small":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w21small.png",
-      "large":"https://raw.githubusercontent.com/GulayAdgzl/character-api/master/w21.png"
     }
   }
   
